@@ -7,7 +7,7 @@ while i <=100:
 
 print("loop ended")
 
-#print numbers from 100 to 1
+#print numbers from 100 to 1 mv
 
 j = 100
 while j>=1:
