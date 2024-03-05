@@ -30,5 +30,5 @@ if __name__ == '__main__':
     # Reading input integer
     n = int(input("Enter number: ").strip())
 
-    # Checking the number
+    # Checking the numbers
     check_number(n)
